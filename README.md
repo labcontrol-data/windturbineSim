@@ -1,6 +1,6 @@
 # windturbineSim
 
-<p align="center"><a href="http://www.labcontrol.xyz/dokuwiki" target="_blank" rel="noopener"><img src="images/logo.png"></a></p>
+<p align="center"><a href="http://www.labcontrol.xyz/dokuwiki" target="_blank" rel="noopener"><img src="https://github.com/labcontrol-data/images/blob/main/logo.png"></a></p>
 
 # [Labcontrol, Brazil](http://www.labcontrol.xyz/dokuwiki)
 

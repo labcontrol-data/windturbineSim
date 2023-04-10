@@ -10,11 +10,13 @@ About
 ============
 
 This page provides information about the project developed at 
-LISTI, National School of Applied Sciences, Ibn Zohr University, and at Labcontrol called ["Integral-backstepping sliding-mode control for maximizing the power production of wind turbines."](http://www.anvargas.com/blog/studying.html)  Simulations were performed in a model of wind turbines, and the data contained in this Github repository were collected from those simulations. 
+LISTI, National School of Applied Sciences, Ibn Zohr University, and at Labcontrol called ["Integral-backstepping sliding-mode control for maximizing the power production of wind turbines."](http://www.anvargas.com/blog/windturbineSim.html)  Simulations were performed in a model of wind turbines, and the data contained in this Github repository were collected from those simulations. 
 
-[![DOI](https://zenodo.org/badge/330236633.svg)](https://zenodo.org/badge/latestdoi/330236633)
+[![DOI](https://zenodo.org/badge/626093895.svg)](https://zenodo.org/badge/latestdoi/626093895)
 
-**Please check more details about this project in the page detailing the ["Integral-backstepping sliding-mode control for maximizing the power production of wind turbines."](http://www.anvargas.com/blog/studying.html)**
+
+
+**Please check more details about this project in the page detailing the ["Integral-backstepping sliding-mode control for maximizing the power production of wind turbines."](http://www.anvargas.com/blog/windturbineSim.html)**
 
 For more details about the simulation data, as long as the corresponding academic publications, please visit [the project page](http://www.anvargas.com/blog).
 
@@ -46,7 +48,7 @@ More information
 and let him know about your project. Depending on your research area, the author can help you interpret the data according to your application. 
 The author works in cooperation with the team members of LISTI, National School of Applied Sciences, Ibn Zohr University, and all the members will do their best to help you.
 
-[![DOI](https://zenodo.org/badge/330236633.svg)](https://zenodo.org/badge/latestdoi/330236633)
+[![DOI](https://zenodo.org/badge/626093895.svg)](https://zenodo.org/badge/latestdoi/626093895)
 
 Citation
 ------
@@ -58,10 +60,10 @@ How to cite the data of this repository:
     title        = {Data for modeling and simulation of wind turbines},
     month        = {Apr},
     year         = 2023,
-    doi          = {10.5281/zenodo.4445334},
+    doi          = {10.5281/zenodo.7814550},
     version      = {1.0.1},
     publisher    = {Zenodo},
-    url          = {https://zenodo.org/badge/latestdoi/330236633}
+    url          = {https://zenodo.org/badge/latestdoi/626093895}
 };
 ```
 
